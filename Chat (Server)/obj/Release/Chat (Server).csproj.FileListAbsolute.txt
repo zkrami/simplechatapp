@@ -1,0 +1,22 @@
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\bin\Release\Chat (Server).exe
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\bin\Release\Chat (Server).pdb
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\bin\Release\MetroFramework.Design.dll
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\bin\Release\MetroFramework.dll
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\bin\Release\MetroFramework.Fonts.dll
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\obj\Release\Chat (Server).csprojResolveAssemblyReference.cache
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\obj\Release\Chat__Server_.Form1.resources
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\obj\Release\Chat__Server_.Properties.Resources.resources
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\obj\Release\Chat (Server).csproj.GenerateResource.Cache
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\obj\Release\Chat (Server).exe
+C:\Users\R\Documents\Visual Studio 2012\Projects\Chat (Server)\obj\Release\Chat (Server).pdb
+D:\R\R\Projects\Chat (Server)\obj\Release\Chat (Server).exe
+D:\R\R\Projects\Chat (Server)\obj\Release\Chat (Server).pdb
+D:\R\R\Projects\Chat (Server)\bin\Release\Chat (Server).exe
+D:\R\R\Projects\Chat (Server)\bin\Release\Chat (Server).pdb
+D:\R\R\Projects\Chat (Server)\bin\Release\MetroFramework.Design.dll
+D:\R\R\Projects\Chat (Server)\bin\Release\MetroFramework.dll
+D:\R\R\Projects\Chat (Server)\bin\Release\MetroFramework.Fonts.dll
+D:\R\R\Projects\Chat (Server)\obj\Release\Chat (Server).csprojResolveAssemblyReference.cache
+D:\R\R\Projects\Chat (Server)\obj\Release\Chat__Server_.Form1.resources
+D:\R\R\Projects\Chat (Server)\obj\Release\Chat__Server_.Properties.Resources.resources
+D:\R\R\Projects\Chat (Server)\obj\Release\Chat (Server).csproj.GenerateResource.Cache

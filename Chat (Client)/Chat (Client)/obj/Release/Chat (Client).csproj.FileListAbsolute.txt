@@ -1,0 +1,19 @@
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\bin\Release\Chat (Client).exe
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\bin\Release\Chat (Client).pdb
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\bin\Release\MetroFramework.Design.dll
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\bin\Release\MetroFramework.dll
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\bin\Release\MetroFramework.Fonts.dll
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat__Client_.Form1.resources
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat__Client_.Properties.Resources.resources
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat (Client).csproj.GenerateResource.Cache
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat (Client).exe
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat (Client).pdb
+C:\Users\R\Documents\Visual Studio 2015\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat (Client).csprojResolveAssemblyReference.cache
+D:\R\R\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat (Client).exe
+D:\R\R\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat (Client).pdb
+D:\R\R\Projects\Chat (Client)\Chat (Client)\bin\Release\Chat (Client).exe
+D:\R\R\Projects\Chat (Client)\Chat (Client)\bin\Release\Chat (Client).pdb
+D:\R\R\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat (Client).csprojResolveAssemblyReference.cache
+D:\R\R\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat__Client_.Form1.resources
+D:\R\R\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat__Client_.Properties.Resources.resources
+D:\R\R\Projects\Chat (Client)\Chat (Client)\obj\Release\Chat (Client).csproj.GenerateResource.Cache

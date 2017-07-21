@@ -1,0 +1,11 @@
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\obj\Debug\Chat (Server).csprojResolveAssemblyReference.cache
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\obj\Debug\Chat__Server_.Form1.resources
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\obj\Debug\Chat__Server_.Properties.Resources.resources
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\obj\Debug\Chat (Server).csproj.GenerateResource.Cache
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\bin\Debug\Chat (Server).exe
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\bin\Debug\Chat (Server).pdb
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\bin\Debug\MetroFramework.Design.dll
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\bin\Debug\MetroFramework.dll
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\bin\Debug\MetroFramework.Fonts.dll
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\obj\Debug\Chat (Server).exe
+c:\users\r\documents\visual studio 2012\Projects\Chat (Server)\obj\Debug\Chat (Server).pdb
